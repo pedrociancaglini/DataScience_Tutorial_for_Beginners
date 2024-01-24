@@ -1,4 +1,4 @@
-# DataScience Tutorial for Beginners
+# Data Science Tutorial for Beginners
 I wanted to create a set of hands-on Notebooks for people who would like to become a Data Scientist
 
 Following the instructions of each of these notebooks, student will have a hands-on experience and learn the basics of Data Science. 
